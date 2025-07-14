@@ -156,3 +156,8 @@ The template supports all major OCI regions:
 This template is designed to be a starting point! Edit the Terraform to extend the template to support your use case.
 
 For issues and contributions, please visit the [Coder Registry repository](https://github.com/coder/registry).
+
+## Contributors
+
+- [aybanda](https://github.com/aybanda)
+
